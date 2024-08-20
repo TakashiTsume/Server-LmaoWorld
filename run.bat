@@ -1,2 +1,1 @@
-@echo off
-java -Xmx4G -jar paper.jar nogui
+java -Xmx4G -jar paper.jar noguipl
